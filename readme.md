@@ -121,6 +121,4 @@ This project is licensed under the MIT License—because even Kant would agree t
 ---
 
 *Built with 🤖, ☕, and a dash of 18th-century philosophy.*
-```
 
----
