@@ -1,20 +1,6 @@
----
-
-```markdown
-<p align="center">
-  <img src="/docs/public/KantianNeuralDreams.png" alt="Kantian Neural Dreams">
-</p>
-
 > ⚠️ **Warning**: This is alpha software under active development. Expect frequent breaking changes, bugs, and the occasional existential crisis as our AI ponders the categorical imperative. The API is unstable, but at least it’s ethically sound!
 
 # Kantian Neural Dreams: Ethical AI Meets Blockchain Brilliance
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Status](https://img.shields.io/badge/Status-Alpha-orange.svg)]()
-[![Documentation](https://img.shields.io/badge/Documentation-docs-blue.svg)](https://docs.kantianneuraldreams.fun)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kantianneuraldreams?style=social)](https://twitter.com/kantianneuraldreams)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/kantian-neural-dreams?style=social)](https://github.com/your-username/kantian-neural-dreams)
 
 Welcome to **Kantian Neural Dreams**, a fork of the Daydreams framework infused with the **Critique of Artificial Reason (CAR)**—a Kantian-inspired ethical toolkit for AI. Our generative agents don’t just process transactions; they wrestle with moral dilemmas, dream of universal laws, and occasionally judge your blockchain decisions with a stern, Prussian glare.
 
