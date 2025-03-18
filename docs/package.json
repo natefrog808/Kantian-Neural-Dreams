@@ -1,9 +1,12 @@
 {
-  "name": "docs",
-  "version": "0.0.0",
+  "name": "kantian-neural-dreams",
+  "version": "1.0.0",
+  "description": "A Kantian-inspired ethical AI framework with CAR extension for Daydreams",
   "type": "module",
   "scripts": {
     "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "docs:build": "next build",
     "docs:start": "next start"
   },
